@@ -26,4 +26,4 @@ Expected Output
 
 # Scenario 2 
 
-Please refer [README.md]()
+Please refer [README.md](https://github.com/harshjsca/home-task/tree/main/scenario-2#readme)
